@@ -10,7 +10,7 @@
 		<classes>
 
 			<class name="com.cimb.testclasses.TgvTests"></class>
-			<class name="com.cimb.testclasses.EduCalStandardTest"></class>
+			<class name="com.cimb.testclasses.EduCalStandardTests"></class>
 
 
 		</classes>

@@ -7,3 +7,5 @@ reports/
 test-output/
 .settings/
 .classpath
+.project
+bin
