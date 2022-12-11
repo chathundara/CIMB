@@ -70,7 +70,7 @@ public class Util {
     public static String getReportName() {
         String localDateTime = getCurrentDateTime();
         StringBuilder name = new StringBuilder()
-                                        .append("Trender Automation Report ")
+                                        .append("CIMB Automation Report ")
                                         .append(localDateTime)
                                         .append(".html");
         return name.toString();

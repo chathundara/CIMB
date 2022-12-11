@@ -2,7 +2,7 @@ package com.cimb.utilities;
 
 public class Constants {
 							/*---Base Setup--- */
-   // public static final String BASE_URL = "https://dev.trendertag.com/login";
+   
 	public static final String MY_BASE_URL = "https://www.cimb.com.my/en/personal/home.html";
 	public static final String SG_BASE_URL = "https://www.cimb.com.sg/en/personal/home.html";
 	public static final String DEFAULT_BROWSER = "chrome";

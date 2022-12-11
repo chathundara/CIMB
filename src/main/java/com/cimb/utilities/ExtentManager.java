@@ -41,7 +41,7 @@ public class ExtentManager {
 
         extent = new ExtentReports();
         extent.setSystemInfo("Organization", "CIMB");
-        extent.setSystemInfo("Author", "dhanushka.c@aeturnum.com");
+        extent.setSystemInfo("Author", "Dhanushka Chathundara");
         String os = Constants.OS_NAME.toLowerCase();
         extent.setSystemInfo("OS", os);
         extent.setSystemInfo("Browser", "Chrome");
