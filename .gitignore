@@ -1,0 +1,9 @@
+.idea/
+trenderTag.iml
+target/
+logs/
+/bin/
+reports/
+test-output/
+.settings/
+.classpath

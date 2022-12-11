@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Regression Test Suite">
+	<listeners>
+		<listener class-name="com.cimb.base.TestListeners" />
+	</listeners>
+	<test name="Trender Application Test" preserve-order="true">
+		<!-- <parameter name="browser" value="chrome"></parameter> -->
+		<classes>
+
+			<class name="com.cimb.testclasses.TgvTests"></class>
+			<class name="com.cimb.testclasses.EduCalStandardTest"></class>
+
+
+		</classes>
+	</test>
+</suite>
